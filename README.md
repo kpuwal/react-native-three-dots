@@ -25,7 +25,10 @@ export default function App() {
 }
 ```
 
-<!-- which will get you something like this: -->
+which will get you something like this:
+
+![Basic Example](assets/threeDots.gif)
+
 
 ## Props
 Customize color of dots, animation type, and animation speed using these props:
